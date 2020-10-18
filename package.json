@@ -1,0 +1,40 @@
+{
+  "name": "amavida-info",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "/jan/ai",
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/icons": "4.9.1",
+    "@types/node": "12.12.62",
+    "@types/react": "16.9.49",
+    "@types/react-dom": "16.9.8",
+    "i18next": "19.7.0",
+    "i18next-browser-languagedetector": "6.0.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-i18next": "11.7.3",
+    "react-scripts": "3.4.3",
+    "typescript": "3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
